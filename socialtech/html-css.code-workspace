@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"name": "html-css",
+			"path": "../html-css"
+		},
+		{
+			"name": "kadai₋008",
+			"path": "../kadai₋008"
+		},
+		{
+			"name": "kadai₋015",
+			"path": "../kadai₋015"
+		},
+		{
+			"name": "kadai₋018",
+			"path": "../kadai₋018"
+		},
+		{
+			"name": "kadai₋022",
+			"path": "../kadai₋022"
+		},
+		{
+			"name": "kadai₋mdn₋css",
+			"path": "../kadai₋mdn₋css"
+		},
+		{
+			"name": "html-css-kadai₋013",
+			"path": "../html-css-kadai₋013"
+		},
+		{
+			"name": "socialtech",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
